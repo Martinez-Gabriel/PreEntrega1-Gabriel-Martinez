@@ -1,4 +1,27 @@
-.divGeneral  {
-    background-color: aqua;
-    color: gray;
+.hola  {
+    width: 50%;
+}
+
+.tamaño {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.nose {
+ width: 50%;
+}
+
+.nose1 {
+    width: 50%;
+   }
+
+.tamañoCardNombre {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+.accordion-button {
+    background-color: rgba(98, 98, 119, 0.142);
 }
