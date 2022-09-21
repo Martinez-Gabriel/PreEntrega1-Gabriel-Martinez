@@ -6,7 +6,7 @@ const CardProductos = () => {
         <div className='tamaño'>
         <div className="card mb-3 hola">
           
-          <svg xmlns="http://www.w3.org/2000/svg" className="d-block user-select-none" width="100%" height={300} aria-label="Placeholder: Image cap" focusable="false" role="img" preserveAspectRatio="xMidYMid slice" viewBox="0 0 318 180" style={{fontSize: '1.125rem', textAnchor: 'middle'}}>
+          <svg xmlns="http://www.w3.org/2000/svg" className="d-block user-select-none" width= "40rem" height= "25rem" aria-label="Placeholder: Image cap" focusable="false" role="img" preserveAspectRatio="xMidYMid slice" viewBox="0 0 318 180" style={{fontSize: '1.125rem', textAnchor: 'middle'}}>
             <rect width="100%" height="100%" fill="#868e96" />
             <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Imagen</text>
           </svg>

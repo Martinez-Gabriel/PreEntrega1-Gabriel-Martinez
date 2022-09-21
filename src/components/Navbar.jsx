@@ -19,6 +19,7 @@ const Navbar = () => {
               <Dropdown lista={listDropdown}/>
             </ul>
             <Form busqueda="Buscar Producto"/>
+            <button type="button" class="btn btn-success botonCarrito">Carrito de Compras</button>
           </div>
         </div>
       </nav>
