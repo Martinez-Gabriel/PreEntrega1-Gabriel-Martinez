@@ -31,3 +31,8 @@
 .botonCarrito {
     margin: 0.4rem
 }
+
+  .cardProducto {
+    width: 18rem;
+    margin: 4px;
+  }

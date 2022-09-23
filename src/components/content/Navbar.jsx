@@ -1,7 +1,7 @@
 import React from 'react';
-import Dropdown from './Dropdown';
-import Form from './Form';
-import Secciones from './Secciones';
+import Dropdown from '../layouts/Dropdown';
+import Form from '../layouts/Form';
+import Secciones from '../layouts/Secciones';
 
 const Navbar = () => {
   const listDropdown = ["Hombre", "Mujer", "Niños"]
