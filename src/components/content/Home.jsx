@@ -8,7 +8,9 @@ const Home = () => {
 
 
     return (
-        <div className="row">
+        
+        <div className="row contenedorProductos">
+            <h2 className='h1Productos'>PRODUCTOS</h2>
             {productos}     
         </div>      
         

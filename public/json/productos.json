@@ -22,7 +22,7 @@
         "nombre": "Smart Tv",
         "marca": "Novatech",
         "modelo": "50D1U",
-        "precio": 57000,
+        "precio": 125000,
         "stock": 15,
         "img": "smart-tv-novatech.jpg"
     },
@@ -89,5 +89,4 @@
         "stock": 25,
         "img": "mac-air.jpg"
     }
-    
 ]

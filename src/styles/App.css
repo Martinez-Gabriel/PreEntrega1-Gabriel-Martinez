@@ -34,5 +34,16 @@
 
   .cardProducto {
     width: 18rem;
-    margin: 4px;
+    margin: 10px;
   }
+
+.contenedorProductos {
+    display: flex;
+    justify-content: center ;
+}
+
+.h1Productos{
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+}
