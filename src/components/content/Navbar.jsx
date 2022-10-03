@@ -4,7 +4,7 @@ import Form from '../layouts/Form';
 import Secciones from '../layouts/Secciones';
 
 const Navbar = () => {
-  const listDropdown = ["Hombre", "Mujer", "Niños"]
+  const listDropdown = ["Procesadores", "Motherboards", "Memorias Ram"]
     return (
       <>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
